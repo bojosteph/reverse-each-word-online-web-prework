@@ -10,7 +10,7 @@ def reverse_each_word(array)
   return sentence
   end
  end
-
+end
   
 
 
