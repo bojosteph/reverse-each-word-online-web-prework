@@ -1,6 +1,6 @@
 def reverse_each_word()
   arr = [sentence1, sentence2]
-  arr.reverse 
+  arr.reverse each do 
   
     
 
