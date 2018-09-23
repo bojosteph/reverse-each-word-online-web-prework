@@ -5,8 +5,11 @@ def reverse_each_word(array)
       sentence.reverse!
   return sentence
   
-  
-  
+  new_word.collect do |sentence|
+      sentence.reverse!
+  return sentence
+  end
+
 end
   
 
